@@ -3,4 +3,3 @@ def katz_deli(line)
     puts "The line is empty."
   end
 end
-
